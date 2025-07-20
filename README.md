@@ -12,7 +12,7 @@ My_First_Portfolio/
 ├── html_basic/
 │   ├── base_index.html      — Valid minimal HTML page  
 │   ├── index.html           — Page with headings, paragraphs, image, links, and table  
-│   └── tweets.html          — Page embedding a tweet and linking back to homepage  
+│   └── tweets.html          — Page embedding a tweet and linking back to the homepage  
 └── portfolio/
     └── index.html           — Semantic personal portfolio page
 
@@ -45,20 +45,14 @@ My_First_Portfolio/
 
 ---
 
-## 🌐 Live Demo
-
-> (Optional) Add a link if deployed on GitHub Pages  
-[View Live Site](https://yourusername.github.io/My_First_Portfolio/)
-
----
 
 ## 🤝 Made By
 
 Made with 💻 by **Abdulrahman** —  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+[GitHub](https://github.com/abdulrahman-elhanafy) | [LinkedIn](www.linkedin.com/in/abdulrahman-hanafy)
 
 ---
 
 ## 📜 License
 
-This project is part of the **ALX Software Engineering Curriculum** and for learning purposes only.
+This project is part of the **ALX Software Engineering Curriculum** and is for learning purposes only.
